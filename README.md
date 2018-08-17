@@ -18,6 +18,11 @@ The build is uglified to `dist/calculate-distance-util.min.js`, Sourcemaps are g
 
     1. npm run build
 
+To publish:
+
+    1. npm run prepublish
+    2. npm publish --access public
+
 #### Running Locally
 
     1. npm run start
